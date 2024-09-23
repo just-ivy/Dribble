@@ -4,7 +4,7 @@ export default [
         name: "Lilly Bardenova",
         job: "Brand + Illustrator",
         role: ["Brand", "Illustrator", "Web"],
-        image: "public/img1.webp",
+        image: "/img1.webp",
     },
     {
         id : 2,
